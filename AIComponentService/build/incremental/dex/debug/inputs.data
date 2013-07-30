@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375210850000 431 0fa5c9cfb1053912142140bda0ae382cf17d3a60 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$layout.class
+1375210850000 485 db4366400c96ac427ec555f618a531d4757d9be8 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$dimen.class
+1375210850000 455 9619c4f98f99854ce115cf573085519779c78873 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$style.class
+1375210850000 496 d28b371f7c167c256d78e37030d02591d3fb1608 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$string.class
+1375210850000 364 b7505440711053ebefb4004fad8fb0aa244ce40a /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$attr.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375210850000 417 978df9f74d5faab44473fc3714ab506a1f4f0a64 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$id.class
+1375210850000 431 d7d11fca9006e2b65310ea62b360fcc004e3dbb2 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$drawable.class
+1375212840000 784 3e7360544961c83e84cd19a9281eeaedd7077eaf /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/ComponentService.class
+1375210850000 416 bb3c59cc1e4db50986d7ec5dddf7def531bf6184 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R$menu.class
+1375212840000 1137 5f5c1ce37c0fd8e4dbbc41d632ae9e0778656f90 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/SettingsActivity.class
+1375210850000 757 dc498961c8d5966fc3fee9ffb0efa81c822ac000 /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/R.class
+1375210850000 361 14a9a67f2867e22434a5b15b42f4c3a319d9e5ea /Users/jos/development/android/AIComponentServiceProject/AIComponentService/build/classes/debug/org/jos/aicomponentservice/BuildConfig.class
